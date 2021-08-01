@@ -3,3 +3,4 @@
 echo "The test is starting please wait till it is complete"
 output =route -n
 outputTwo =ipconfig
+echo "The data is as follows."
